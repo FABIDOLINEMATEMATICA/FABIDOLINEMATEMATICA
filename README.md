@@ -1,7 +1,7 @@
 # Sobre Mim
--:+1:Olá meu nome é Fabiana Doline de Oliveira
+-:+1:Olá meu nome é **Fabiana Doline de Oliveira**
 
--Meu email de contato é fabidoline@gmail.com
+-Meu email de contato é [email](fabidoline@gmail.com)
 
 -Interesse em aprender a programar novas linguagens 
 
